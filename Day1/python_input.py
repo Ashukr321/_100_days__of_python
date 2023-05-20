@@ -1,4 +1,4 @@
 # input function inthe python 
 # this is commetn 
 
-print("hello "+ input("what is your name?"));
+print(len(input("what is your name?")));
